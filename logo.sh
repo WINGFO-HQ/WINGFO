@@ -50,7 +50,7 @@ fade_in "Channel: https://t.me/infomindao  Group: https://t.me/WINGFO_DAO"
 echo -ne "${NC}"
 
 echo -ne "\n${BLUE}"
-for ((i=0; i<80; i++)); do
+for ((i=0; i<66; i++)); do
     echo -ne "─"
     sleep 0.02
 done
