@@ -46,7 +46,7 @@ echo -ne "${NC}"
 echo -e "\n"
 sleep 0.5
 echo -ne "${WHITE}"
-fade_in "Channel: https://t.me/infomindao  Group: https://t.me/WINGFO_DAO"
+fade_in "Channel: https://t.me/infomindao    Group: https://t.me/WINGFO_DAO"
 echo -ne "${NC}"
 
 echo -ne "\n${BLUE}"
